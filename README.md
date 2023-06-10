@@ -1,5 +1,3 @@
-
-
 #  Applied Cryptography Application :lock: 
 Developed in 2020 for my Applied Cryptography class, this Python-based GUI application serves as an interactive tool that illustrates RSA encryption techniques. Leveraging the Tkinter library, the application provides a graphical user interface where users can generate encryption keys and also input messages for encoding, encryption, decryption, and decoding. This hands-on approach facilitates visual comprehension and a deeper understanding of the mechanics of applied cryptography.
 
@@ -29,3 +27,10 @@ python rsa.py
 ## :framed_picture: User Interface
 The application uses Tkinter for GUI. Here's what it looks like:
 ![AppliedCryptography](https://github.com/alvinlimfangchuen/applied-cryptography/assets/125956578/05007ac1-f37c-4bd6-b1c7-ed32c7e61fd5)
+
+## :books: References
+
+- [RSA (cryptosystem) - Wikipedia](https://en.wikipedia.org/wiki/RSA_(cryptosystem))
+- [A method for obtaining digital signatures and public-key cryptosystems](https://dl.acm.org/doi/10.1145/359340.359342)
+
+
